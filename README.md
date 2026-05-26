@@ -1,6 +1,6 @@
-# SQL_Database_Design
+# SQL_Database_DDL And Constraints
  A collection of SQL scripts demonstrating table creation, constraints, and relational design.
-# 🗄️ SQL Database Design & Constraints
+# 🗄️ SQL Database DDL & Constraints
 
 This repository demonstrates **MySQL DDL commands and constraints** as part of a structured database design assignment.  
 It covers database creation, table management, and enforcement of integrity rules through constraints.
